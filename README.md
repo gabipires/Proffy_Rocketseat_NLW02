@@ -15,7 +15,7 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 ###  Página de listagem dos professores
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de listagem" src="" width="100%">
+  	<img alt="Página de listagem" src="https://github.com/gabipires/Proffy_Rocketseat_NLW02/blob/master/busca.JPG" width="100%">
 </p>
 
 ###  Página de cadastro dos professores
