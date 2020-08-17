@@ -21,7 +21,7 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 ###  Página de cadastro dos professores
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro" src="" width="100%">
+  	<img alt="Página de cadastro" src="https://github.com/gabipires/Proffy_Rocketseat_NLW02/blob/master/cadastro.png" width="100%">
 </p>
 
 ---
