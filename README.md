@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/.github/screenshots/paginainicial.jpg" />
+    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="https://github.com/gabipires/Proffy_Rocketseat_NLW02/blob/master/telainicial.JPG" />
 </h1>
 
 
