@@ -25,7 +25,7 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 </p>
 
 ---
-#### 🧭 Rodando a aplicação
+## 🧭 Rodando a aplicação
 
 ```bash
 
